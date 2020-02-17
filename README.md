@@ -5,3 +5,4 @@ list-tables-coalesce.sql - SQL to list tables under a database and coalesce unde
 list-tables.sql - SQL to list tables under a database
 postgres-list-db.pl - Perl script to list databases under the postgresql server
 print_lists.pl - subroutines to print lists
+postgres-list-table.pl - display the records in a database table
